@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mc4collab@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- 🌐 I'm passionate about open-source software and contributing to the community.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
