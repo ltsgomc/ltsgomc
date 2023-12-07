@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **mc4collab@gmail.com**
+- 📫 You can reach me On **mc4collab@gmail.com**
 
 - 🌐 I'm passionate about open-source software and contributing to the community.
 
