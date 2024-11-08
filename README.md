@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohammed Chakib Bader</h1>
-<h3 align="center">From Web Development to Cybersecurity: My Journey Towards a Secure Future</h3>
+<h3 align="center">Full Stack Web Developer & Cybersecurity Researcher </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmp2bzdhbW5oand5bzA3Mm53OHBrZzd2Y3VzaWxwc3J5d3QxdndicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltsgomc&label=Profile%20views&color=0e75b6&style=flat" alt="ltsgomc" /> </p>
