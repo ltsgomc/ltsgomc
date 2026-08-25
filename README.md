@@ -20,12 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ltsgomc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ltsgomc" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohamed-chakib-bader-60487b277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bader-mohamed-chakib-60487b277" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammedchakibbader/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bader-mohamed-chakib-60487b277" height="30" width="40" /></a>
 <a href="https://instagram.com/@ltsgomc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ltsgomc" height="30" width="40" /></a>
 <a href="https://discord.gg/ltsgomc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ltsgomc" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ltsgomc&show_icons=true&locale=en" alt="ltsgomc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ltsgomc&" alt="ltsgomc" /></p>
