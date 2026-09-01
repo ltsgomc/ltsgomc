@@ -7,15 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/ltsgomc" target="blank"><img src="https://img.shields.io/twitter/follow/ltsgomc?logo=twitter&style=for-the-badge" alt="ltsgomc" /></a> </p>
 
-- 🔭 I’m currently working on **My Own Startup**
 
-- 🌱 I’m currently learning **CyberSecurity**
-
-- 💬 Ask me about **Linux**
 
 - 📫 You can reach me On **mc4collab@gmail.com**
 
-- 🌐 I'm passionate about open-source software and contributing to the community.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
